@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Langs I Know :
+
+Python HTML
+
+Langs I'm Learning :
+
+JavaScript Rust Julia
+
+Stuff I Usually Use:
+
+Git VSCode DigitalOcean Heroku Vim
+
+If You're Willing To Get In Touch With Me Or You Just Want To Say Hello, Here You Go:
+
+TG Mail
