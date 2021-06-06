@@ -7,7 +7,9 @@ I also try to share the projects I am working on here,
 I would be so grateful if you could share your thoughts with me,
 and accompany me in the learning process.
 you can also find me at : 
+
 telegram : @mhmdjavadcs
+
 or email : mhmdjavad.safi@ut.ac.ir
 
 The main language I use :
