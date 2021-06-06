@@ -4,9 +4,11 @@ about me :
 i'm a computer science studend from iran , 
 I would love to learn more and share my knowledge here,
 I also try to share the projects I am working on here,
-I would be very grateful if you could share your thoughts with me,
+I would be so grateful if you could share your thoughts with me,
 and accompany me in the learning process.
-you can also find me at : telegram : @mhmdjavadcs
+you can also find me at : 
+telegram : @mhmdjavadcs
+or email : mhmdjavad.safi@ut.ac.ir
 
 The main language I use :
 
@@ -17,3 +19,6 @@ python libraries, django, machine learning, deep learning, back-end,
 html, css, javascript, and so an ...
 
 
+please shere your thought with me in the comments or contact me with my telegram, i check it every day,
+and if there is any python project that i can help you with, i will be so grateful to doing that.
+thanks:)
