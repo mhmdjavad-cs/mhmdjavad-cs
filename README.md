@@ -4,18 +4,18 @@
 
 ### Hi there 👋
 
-about me : 
 
-i'm a computer science studend from iran , 
+computer science studend at tehran university from iran
 I would love to learn more and share my knowledge here,
 I also try to share the projects I am working on here,
 I would be so grateful if you could share your thoughts with me,
 and accompany me in the learning process.
+
+
 you can also find me at : 
-
-telegram : @mhmdjavadcs
-
+telegram : @mhmdjavadcs 
 or email : mhmdjavad.safi@ut.ac.ir
+, computer science studend at tehran university from iran
 
 
 
@@ -38,4 +38,4 @@ thanks:)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
-![alt text](https://i.pinimg.com/236x/e5/5b/db/e55bdbec6666e6f6811c322ef4e9e416--entrance-gates-main-entrance.jpg)
+
