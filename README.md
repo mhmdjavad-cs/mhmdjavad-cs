@@ -23,7 +23,6 @@ __Favorites:__
 
 
  
- <img text_alight="midel" height="180em" src="https://github-readme-stats.vercel.app/api?username=mhmdjavad_cs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  
 </div>
 
