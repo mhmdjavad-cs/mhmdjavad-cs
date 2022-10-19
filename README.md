@@ -23,7 +23,7 @@ __Favorites:__
 
 
  
- <img text_alight="midel" height="180em" src="https://github-readme-stats.vercel.app/api?username=AliCybeRR&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img text_alight="midel" height="180em" src="https://github-readme-stats.vercel.app/api?username=mhmdjavad_cs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  
 </div>
 
@@ -33,14 +33,4 @@ I would love to learn more and share my knowledge here,
 I also try to share the projects I am working on here,
 I would be so grateful if you could share your thoughts with me,
 and accompany me in the learning process.
-
-
-
-
-
-
-
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
 
