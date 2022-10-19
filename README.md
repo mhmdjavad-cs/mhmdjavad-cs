@@ -22,7 +22,7 @@ or email : mhmdjavad.safi@ut.ac.ir
 
 The main language I use :
 
-<a href="https://simpleicons.org/icons/ruby.svg" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="[https://simpleicons.org/icons/ruby.svg](https://icons8.com/lunacy)" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 
 Technologies I am interested in learning more :
 
