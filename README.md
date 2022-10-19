@@ -9,9 +9,9 @@ __Hi there, My name is Mhmd javad S__
 
 
 computer scientist from UT & programer , \
-telegram : @mhmdjavadcs 
-or email : mhmdjavad.safi@ut.ac.ir / mhmdjavad.safi@gmail.com
-computer science studend at tehran university from iran
+telegram : @mhmdjavadcs \
+or email : mhmdjavad.safi@ut.ac.ir / mhmdjavad.safi@gmail.com \
+computer science studend at tehran university from iran. \
 
  
 __Favorites__
