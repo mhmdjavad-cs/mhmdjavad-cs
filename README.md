@@ -16,7 +16,7 @@ computer science studend at tehran university from iran.
  
 __Favorites:__
 
-[![python](https://img.shields.io/badge/Python-FFD801?style=for-the-badge&logo=python&logoColor=white)](#)
+[![python](https://img.shields.io/badge/Python-FFD801?style=for-the-badge&logo=python&logoColor=blue)](#)
 [![ruby](https://img.shields.io/badge/ruby-800000?style=for-the-badge&logo=ruby&logoColor=red)](#)
 
 
