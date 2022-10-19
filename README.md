@@ -1,50 +1,17 @@
-                       
-
-
-
-### Hi there 👋
-
-
-computer science studend at tehran university from iran
-I would love to learn more and share my knowledge here,
-I also try to share the projects I am working on here,
-I would be so grateful if you could share your thoughts with me,
-and accompany me in the learning process.
-
-
-you can also find me at : 
-telegram : @mhmdjavadcs 
-or email : mhmdjavad.safi@ut.ac.ir
-, computer science studend at tehran university from iran
-
-
-
-
-The main language I use :
-
-<a href="[https://simpleicons.org/icons/ruby.svg](https://icons8.com/lunacy)" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
-
-Technologies I am interested in learning more :
-
-python libraries, django, machine learning, deep learning, back-end,
-html, css, javascript, and so an ...
-
-
-please shere your thought with me in the comments or contact me with my telegram, i check it every day,
-and if there is any python project that i can help you with, i will be so grateful to doing that.
-thanks:)
+                     
 
 
 
 <div align="center">
 
  
-__HI, My name is AliCybeRR__ 
+__Hi there, My name is Mhmd javad S__ 
 
 
-Iranian Hacker & programer , \
-I usually code with Python and am always interested in learning new things
-
+computer scientist from UT & programer , \
+telegram : @mhmdjavadcs 
+or email : mhmdjavad.safi@ut.ac.ir / mhmdjavad.safi@gmail.com
+computer science studend at tehran university from iran
 
  
 __Favorites__
@@ -60,7 +27,11 @@ __Favorites__
 </div>
 
 
-
+computer science studend at tehran university from iran
+I would love to learn more and share my knowledge here,
+I also try to share the projects I am working on here,
+I would be so grateful if you could share your thoughts with me,
+and accompany me in the learning process.
 
 
 
